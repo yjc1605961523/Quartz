@@ -10,7 +10,7 @@ public class NumberOfDaffodils {
        for (int i = 100; i <999999999 ; i++) {
             if (numberOfDaffodils(i)) {
 
-                System.out.println(i);
+                System.out.println(i+"");
 
             }
         }
